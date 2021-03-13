@@ -11,7 +11,7 @@ void main() {
     title: 'Shopping App',
     home: Scaffold(
       appBar: AppBar(
-        title: new Text('app bar'),
+        title: new Text('Flutter test application'),
       ),
       body: ShoppingListWidget(),
       floatingActionButton: FloatingActionButton(
